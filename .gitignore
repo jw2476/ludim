@@ -1,6 +1,7 @@
 /node_modules/
-/public/build/
+/frontend/public/build/
 /build/
+.env
 
 .DS_Store
 .idea
